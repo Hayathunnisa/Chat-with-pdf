@@ -1,7 +1,7 @@
 # Chat-with-pdf
 ---
 title: Chat With Pdf
-emoji: 📚
+emoji: 📉
 colorFrom: red
 colorTo: green
 sdk: streamlit
